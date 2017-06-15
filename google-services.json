@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "215924787493",
+    "firebase_url": "https://roar-a5434.firebaseio.com",
+    "project_id": "roar-a5434",
+    "storage_bucket": "roar-a5434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215924787493:android:b31e669ca5fe1b37",
+        "android_client_info": {
+          "package_name": "com.abubutt.ab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215924787493-6m33p3pibh0vcrr7615fgtl47th3hsib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiYc_kznVI2ydUvmFR8FNPk9o-LB1-eOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
